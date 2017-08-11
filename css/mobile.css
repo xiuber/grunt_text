@@ -1,0 +1,45 @@
+﻿/*兑换记录*/
+.jfRecord{background-color: #F2F2F2;}
+.jfRecordSection{padding-top: 48px;text-align: left;}
+.recordListCont .recordListCont-1{display: inline-block;width:30%}
+.recordListCont div img{width:100px;height:100px;}
+.recordListCont div{float:left;border-radius: 0 5px 5px 0px;}
+.recordListCont{border-radius: 5px;}
+.recordListCont-2{width:70%;height:100px;background-color: #FCEFD8;}
+.recordListCont-2 p.recordTitle{padding: 10px;color:#000;}
+.recordJf{color:red;text-align: right;padding-right: 10px;line-height: 20px;}
+.recordNum{text-align: right;padding-right: 10px;line-height: 20px;color:#000;}
+.recordOtherNum{line-height: 30px;font-size: 16px;color:#656565;}
+.recordList{padding:0 10px 10px 10px;background-color: #ffffff;margin-top: 10px;}
+.zt{margin-top: 10px;color:#989898;line-height: 30px;}
+.zt-watchBtn{width:70px;height:28px;border:1px solid red;color:#6B6B6B;background-color: #fff;border-radius: 2px;float: right}
+.zt-againBtn{width:70px;height:28px;border: none;background-color:red;color:#fff;border-radius: 2px;float: right;margin-right: 10px;}
+.recordJf img{width: 15px !important;height: 15px !important;vertical-align: -3px!important;margin-left:5px;}
+.jfReNull{text-align: center;line-height: 50px;}
+/*积分兑换*/
+.jfExchange-cont{padding-top:48px;}
+.jfExchange-i{width: 20px;margin-top: 16px;}
+.jfExchangeNum{text-align: right;padding-right: 10px;}
+.jfExchange-Cart2{color:red!important;height:15px!important;}
+.jfExchangeText{text-align: left;height: 40px;}
+.jfExchangeText textarea{resize:none;height:30px;width:95%;padding: 5px;font-size: 14px;line-height: 30px;padding-left: 10px;}
+.jfExchangeText p{line-height: 40px;padding:0 10px;}
+.jfExchangeText p span{float: right;}
+.jfBtnBar-span{float: left;line-height: 50px;width:65%;}
+.jfBtnBar-submit{float: right;width:35%;line-height: 50px;background-color: red;color: #fff;}
+.jfBtnBar{box-sizing: border-box; height: 50px;  background: #eaedf1;  font-size: 16px;  position: fixed;  bottom: 0;  width: 100%;  max-width: 640px;  z-index: 10; font-family: "黑体";}
+/*物流详情*/
+.recordList-1{ width: 70%;height: 100px; float: left; border-radius: 0 5px 5px 0px; }
+.recordList-2{padding:10px;  background-color: #f2f2f2;}
+.recordP{margin-top: 20px;}
+.whMessage{text-align: left;}
+.whMessage p{padding:10px;font-size: 15px;}
+.zt-watchBtn2{margin-right: 10px;}
+.item2{
+    width:46%;
+}
+/****vip专区列表样式***/
+.vipZoneUl{margin-top: 45px;}
+.vipZone{text-align: left;color: #333;margin-top: 5px;}
+.vipZoneSpan{display: inline-block;width: 40px; height: 20px; line-height: 20px; border: 1px solid red; text-align: center; color: red;margin-right: 10px;}
+.viprow2Span1{font-size: 14px;}
